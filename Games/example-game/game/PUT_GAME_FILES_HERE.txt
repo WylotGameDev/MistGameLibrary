@@ -1,0 +1,14 @@
+Put your game's .exe and every file/folder it needs to run inside this
+"game/" folder, preserving the exact structure the game expects on disk.
+
+Example:
+  game/
+    ExampleGame.exe
+    data/
+      assets.pak
+    ...
+
+Mist downloads this folder file-by-file and recreates the same structure
+in the player's install directory, so nothing here needs to be zipped.
+
+Delete this file once you've added the real game files.

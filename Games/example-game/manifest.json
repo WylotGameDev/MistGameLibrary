@@ -1,0 +1,8 @@
+{
+  "name": "Example Game",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "description": "A short, punchy description of what the game is and why someone should play it. Shown on the game's store page.",
+  "genres": ["Adventure"],
+  "tags": ["Singleplayer", "Indie", "2D"]
+}
