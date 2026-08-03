@@ -1,8 +1,0 @@
-{
-  "name": "de_Game",
-  "version": "1.0.0",
-  "author": "wylotdev",
-  "description": "Players take turns answering simple yes or no questions, but every choice matters. One wrong answer can put you closer to losing everything. Each question raises the stakes with a custom built AK-338 points at you, one loss and your fate is already set.",
-  "genres": ["Puzzle"],
-  "tags": ["Singleplayer", "Indie", "Strategy"]
-}
